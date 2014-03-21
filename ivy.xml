@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.3">
+    <info organisation="org.apache" module="${ant.project.name}"/>
+
+    <configurations>
+        <conf name="default" />
+        <conf name="test" extends="default"/>
+    </configurations>
+
+    <dependencies>
+		<dependency org="org.codehaus.jackson" name="jackson-mapper-asl" rev="1.9.13" conf="default"/>
+
+		<dependency org="junit" name="junit" rev="4.11" conf="test->default"/>
+    </dependencies>
+</ivy-module>
