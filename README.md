@@ -1,4 +1,4 @@
 subvision
 =========
 
-Pretty Subversion statistics
+Java tool to generate pretty Subversion statistics from commit logs.
