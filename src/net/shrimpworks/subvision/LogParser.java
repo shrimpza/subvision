@@ -1,5 +1,6 @@
 package net.shrimpworks.subvision;
 
+import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -27,7 +28,7 @@ public class LogParser extends DefaultHandler {
 	private SvnPath path;
 	private String stringVal;
 
-	public LogParser(String logFile) throws SAXException, ParserConfigurationException, IOException {
+	public LogParser(File logFile) throws SAXException, ParserConfigurationException, IOException {
 		entries = new ArrayList<>();
 
 		SAXParserFactory spf = SAXParserFactory.newInstance();

@@ -5,6 +5,7 @@ public class Author {
 	private final String name;
 
 	public Author(String name) {
+		if (name == null) throw new IllegalArgumentException("Name cannot be null");
 		this.name = name;
 	}
 
@@ -19,7 +20,12 @@ public class Author {
 
 	@Override
 	public boolean equals(Object obj) {
-		return name.equals(obj);
+		if (obj == null) return false;
+		if (!(obj instanceof Author)) return false;
+
+		Author author = (Author)obj;
+
+		return name.equals(author.name);
 	}
 
 	@Override

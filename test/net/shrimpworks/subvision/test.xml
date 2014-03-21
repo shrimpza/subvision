@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+  <logentry revision="45756">
+    <author>bob</author>
+    <date>2014-03-20T14:12:09.164873Z</date>
+    <paths>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/TheProjectConfigurationTest.java
+      </path>
+    </paths>
+    <msg>Running log message</msg>
+  </logentry>
+  <logentry revision="45750">
+    <author>bob</author>
+    <date>2014-03-20T12:11:52.478226Z</date>
+    <paths>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/TheProject.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/TheProjectConfigurationTest.java
+      </path>
+    </paths>
+    <msg>Start log message</msg>
+  </logentry>
+  <logentry revision="45743">
+    <author>joes</author>
+    <date>2014-03-20T11:12:08.864426Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/AbstractPool.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyCollector.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyGrant.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyPool.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/ServicePool.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyCollectorTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/ServiceHandlerTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/ServicePoolTest.java
+      </path>
+    </paths>
+    <msg>Do log message</msg>
+  </logentry>
+  <logentry revision="45737">
+    <author>bob</author>
+    <date>2014-03-20T10:00:28.865697Z</date>
+    <paths>
+      <path kind="file" action="A">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyGrant.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyRequest.java
+      </path>
+      <path action="A" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyReturn.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyTest.java
+      </path>
+    </paths>
+    <msg>Format log message</msg>
+  </logentry>
+  <logentry revision="45735">
+    <author>bob</author>
+    <date>2014-03-20T09:33:31.746752Z</date>
+    <paths>
+      <path action="A" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyRequest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+    </paths>
+    <msg>Follows log message</msg>
+  </logentry>
+  <logentry revision="45733">
+    <author>harryd</author>
+    <date>2014-03-20T09:24:45.529648Z</date>
+    <paths>
+      <path kind="file" action="M">/TheProject/branches/working/APIServer/src/net/company/apiserver/APIEventBuilder.java
+      </path>
+    </paths>
+    <msg>Removed log message</msg>
+  </logentry>
+  <logentry revision="45732">
+    <author>bob</author>
+    <date>2014-03-20T09:22:49.595843Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/CallbackDomain/src/net/company/theproject/component/services/Dispatcher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/CallbackDomain/test/net/company/theproject/component/services/DispatcherTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIClient/src/net/company/channelgateway/APIClientReal.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIClient/src/net/company/channelgateway/APIClientMock.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/commons/Recycle.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/commons/RecycleChain.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/commons/RecycleUtils.java
+      </path>
+      <path action="D" kind="file">/TheProject/branches/working/core/src/net/company/theproject/commons/OnFailure.java
+      </path>
+      <path kind="file" action="D">/TheProject/branches/working/core/src/net/company/theproject/commons/OnSuccess.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/core/services/ControlThing.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/test/net/company/theproject/commons/RecycleTest.java
+      </path>
+    </paths>
+    <msg>Some log message</msg>
+  </logentry>
+  <logentry revision="45731">
+    <author>bob</author>
+    <date>2014-03-20T08:57:05.908668Z</date>
+    <paths>
+      <path kind="file" action="M">
+        /TheProject/branches/working/CallbackDomain/src/net/company/theproject/component/services/Numbers.java
+      </path>
+      <path action="R" kind="file"
+            copyfrom-path="/TheProject/branches/working/core/src/net/company/theproject/commons/AcknowledgementNew.java"
+            copyfrom-rev="45730">
+        /TheProject/branches/working/core/src/net/company/theproject/commons/Acknowledgement.java
+      </path>
+      <path kind="file" action="D">
+        /TheProject/branches/working/core/src/net/company/theproject/commons/AcknowledgementNew.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/commons/Publisher.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/events/Dispatcher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/events/ClusterDispatcher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/events/FilterDispatcher.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/core/events/LocalDispatcher.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/registrations/Registrations.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyCollector.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/services/ControlThing.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/services/StorageThing.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/commons/AcknowledgementTest.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/test/net/company/theproject/commons/PublisherTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/events/ClusterDispatcherTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/CollectorTestServiceAgent.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/MockCollectorSubscriber.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/services/StorageThingTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/simulation/CoreNetworkSimulationTest.java
+      </path>
+    </paths>
+    <msg>Drop log message</msg>
+  </logentry>
+  <logentry revision="45730">
+    <author>bob</author>
+    <date>2014-03-20T08:37:31.219880Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/commons/AcknowledgementNew.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/core/events/Dispatcher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/events/ClusterDispatcher.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/events/FilterDispatcher.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/events/LocalDispatcher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/registrations/Registrations.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/services/ControlThing.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/services/StorageThing.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/events/ClusterDispatcherTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/CollectorTestServiceAgent.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/MockCollectorSubscriber.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/services/StorageThingTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/simulation/CoreNetworkSimulationTest.java
+      </path>
+    </paths>
+    <msg>Rename log message</msg>
+  </logentry>
+  <logentry revision="45729">
+    <author>bob</author>
+    <date>2014-03-20T08:19:09.372402Z</date>
+    <paths>
+      <path action="A" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/commons/AcknowledgementNew.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/commons/Publisher.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyCollector.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/services/ControlThing.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/core/test/net/company/theproject/commons/PublisherTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/CollectorTestServiceAgent.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/services/StorageThingTest.java
+      </path>
+    </paths>
+    <msg>Start log message</msg>
+  </logentry>
+  <logentry revision="45728">
+    <author>bob</author>
+    <date>2014-03-20T08:05:34.961080Z</date>
+    <paths>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/core/Core.java
+      </path>
+    </paths>
+    <msg>Simplification log message</msg>
+  </logentry>
+  <logentry revision="45727">
+    <author>bob</author>
+    <date>2014-03-20T07:59:02.276388Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/CallbackDomain/test/net/company/theproject/component/services/NumbersTest.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/WebThing/src/net/company/pelican/WebThing.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/WebThing/test/net/company/pelican/WebEndpointTest.java
+      </path>
+    </paths>
+    <msg>Whoops log message</msg>
+  </logentry>
+  <logentry revision="45726">
+    <author>harryd</author>
+    <date>2014-03-20T07:41:45.511618Z</date>
+    <paths>
+      <path kind="file" action="M">/TheProject/branches/working/APIServer/src/net/company/apiserver/APIEventBuilder.java
+      </path>
+      <path kind="file" action="M">/TheProject/branches/working/APIServer/src/net/company/apiserver/APIServer.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/APIServerConfig.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/MockHttpRequestProcessor.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/WebSocketEventBuilder.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/websocket/WebSocketServer.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/websocket/WebSocketChannelControlThing.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIServer/src/net/company/apiserver/websocket/WebSocketServerHandler.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/APIServer/test/net/company/apiserver/APIServerTest.java
+      </path>
+    </paths>
+    <msg>Reformat log message</msg>
+  </logentry>
+  <logentry revision="45725">
+    <author>bob</author>
+    <date>2014-03-20T07:39:52.678806Z</date>
+    <paths>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/Core.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/src/net/company/theproject/core/CoreConfig.java
+      </path>
+    </paths>
+    <msg>Configurable log message</msg>
+  </logentry>
+  <logentry revision="45724">
+    <author>bob</author>
+    <date>2014-03-20T07:36:26.776659Z</date>
+    <paths>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/services/StorageThing.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/services/ControlThingTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/services/StorageThingTest.java
+      </path>
+    </paths>
+    <msg>Inject log message</msg>
+  </logentry>
+  <logentry revision="45721">
+    <author>bob</author>
+    <date>2014-03-20T07:14:15.501258Z</date>
+    <paths>
+      <path kind="file" action="M">/TheProject/branches/working/core/src/net/company/theproject/core/Core.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/MoneyCollector.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/src/net/company/theproject/core/money/Money.java
+      </path>
+      <path action="M" kind="file">/TheProject/branches/working/core/test/net/company/theproject/core/BootstrapTest.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/ServiceHandlerTest.java
+      </path>
+      <path kind="file" action="M">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/mocks/MockAbstractBillableService.java
+      </path>
+      <path kind="dir" action="D">/TheProject/branches/working/core/test/net/company/theproject/simulation/mock
+      </path>
+    </paths>
+    <msg>Do log message</msg>
+  </logentry>
+  <logentry revision="45720">
+    <author>janea</author>
+    <date>2014-03-20T07:07:55.070988Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/src/net/company/theproject/core/services/StorageThing.java
+      </path>
+    </paths>
+    <msg>Added log message</msg>
+  </logentry>
+  <logentry revision="45718">
+    <author>annm</author>
+    <date>2014-03-20T06:56:42.045682Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/CallbackDomain/src/net/company/theproject/component/services/Dispatcher.java
+      </path>
+    </paths>
+    <msg>Handled log message</msg>
+  </logentry>
+  <logentry revision="45717">
+    <author>annm</author>
+    <date>2014-03-20T06:37:25.174628Z</date>
+    <paths>
+      <path kind="file" action="M">
+        /TheProject/branches/working/CallbackDomain/src/net/company/theproject/component/services/Dispatcher.java
+      </path>
+      <path action="M" kind="file">
+        /TheProject/branches/working/CallbackDomain/test/net/company/theproject/component/services/DispatcherTest.java
+      </path>
+    </paths>
+    <msg>Using log message</msg>
+  </logentry>
+  <logentry revision="45715">
+    <author>harryd</author>
+    <date>2014-03-20T06:00:15.812439Z</date>
+    <paths>
+      <path kind="file" action="M">
+        /TheProject/branches/working/APIClient/src/net/company/channelgateway/ari/APIClientAsync.java
+      </path>
+      <path kind="file" action="A">
+        /TheProject/branches/working/APIClient/test/net/company/channelgateway/ari/APIClientAsyncTest.java
+      </path>
+    </paths>
+    <msg>Added log message</msg>
+  </logentry>
+  <logentry revision="45714">
+    <author>tommy</author>
+    <date>2014-03-19T20:31:31.571084Z</date>
+    <paths>
+      <path action="M" kind="file">
+        /TheProject/branches/working/core/test/net/company/theproject/core/money/MoneyCollectorTest.java
+      </path>
+    </paths>
+    <msg>Rather log message</msg>
+  </logentry>
+</log>
