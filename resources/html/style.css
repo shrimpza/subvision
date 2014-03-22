@@ -1,0 +1,8 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #eee;
+	background-color: #222;
+
+	max-width: 1000px;
+	margin: 0 auto 0 auto;
+}
